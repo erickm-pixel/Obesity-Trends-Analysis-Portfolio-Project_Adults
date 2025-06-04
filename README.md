@@ -1,7 +1,5 @@
 # Obesity Trends Analysis
 
-![Obesity Trends](outputs/obesity_trends.png)
-
 ## Project Overview
 Comprehensive analysis of WHO obesity data demonstrating:
 - Time series visualization
